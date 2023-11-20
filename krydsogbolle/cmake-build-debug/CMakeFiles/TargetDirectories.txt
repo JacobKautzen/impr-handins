@@ -1,0 +1,3 @@
+C:/Users/Jacob/CLionProjects/krydsogbolle/cmake-build-debug/CMakeFiles/krydsogbolle.dir
+C:/Users/Jacob/CLionProjects/krydsogbolle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jacob/CLionProjects/krydsogbolle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
